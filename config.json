@@ -1,0 +1,21 @@
+{
+  "global": {
+    "db_host": "66.147.244.54",
+    "db_user": "allenda8_dUser",
+    "db_database": "allenda8_designSite",
+    "port": 3306,
+    "base_address": "https://design.allendalerobotics.com",
+    "gmail_email": "",
+    "enable_wordpress_auth": false
+    },
+  "dev": {
+    "db_password": "TriSonics4003!",
+    "gmail_password": "",
+    "members_url": ""
+  },
+  "prod": {
+    "db_password": "Encrypted:0iYLP6HuJ7qY1/BtUYAQ+Q==\n",
+    "gmail_password": "",
+    "members_url": ""
+  }
+}
